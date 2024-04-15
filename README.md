@@ -9,3 +9,6 @@
 - https://jump.dev/JuMP.jl/stable/tutorials/linear/sudoku/ (JULIA)
 - https://www.researchgate.net/publication/224396653_Sinkhorn_Solves_Sudoku
 - https://www.researchgate.net/publication/224672706_Multiple_Constraint_Satisfaction_by_Belief_Propagation_An_Example_Using_Sudoku
+
+# Dataset
+-https://www.kaggle.com/datasets/bryanpark/sudoku
