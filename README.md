@@ -9,6 +9,10 @@
 - https://jump.dev/JuMP.jl/stable/tutorials/linear/sudoku/ (JULIA)
 - https://www.researchgate.net/publication/224396653_Sinkhorn_Solves_Sudoku
 - https://www.researchgate.net/publication/224672706_Multiple_Constraint_Satisfaction_by_Belief_Propagation_An_Example_Using_Sudoku
+- https://anandpathak69.medium.com/solving-sudoku-using-naked-twin-strategies-f7ed23ea867f
+- https://www.kaggle.com/datasets/macfooty/sudoku-box-detection
 
 # Dataset
--https://www.kaggle.com/datasets/bryanpark/sudoku
+- https://www.kaggle.com/datasets/rohanrao/sudoku/data
+- https://www.kaggle.com/datasets/radcliffe/3-million-sudoku-puzzles-with-ratings
+- https://www.kaggle.com/datasets/bryanpark/sudoku
